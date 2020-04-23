@@ -4,6 +4,6 @@
 
 ## Challenge complete
 
-**Live Preview: [Four card feature section](https:// 'click to preview')**
+**Live Preview: [Four card feature section](https://four-card-feature-section-sooty.now.sh/ 'click to preview')**
 
 #### By **[a12989x](https://github.com/a12989x, 'Alexis Guzman')**
