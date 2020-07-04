@@ -1,6 +1,6 @@
 # Frontend Mentor - Four card feature section (completed)
 
-**Live Preview: [Four card feature section](https://four-card-feature-section-sooty.now.sh/ 'click to preview')**
+**Live Preview: [Four card feature section](https://a12989x.github.io/four-card-feature-section/ 'click to preview')**
 
 ![Design preview for the Four card feature section coding challenge](./design/desktop-preview.jpg)
 
